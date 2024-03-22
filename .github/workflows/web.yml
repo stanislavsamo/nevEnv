@@ -1,4 +1,4 @@
-name: Netology AHJ
+name: Netology AHJ New ENV
 
 on: [push, pull_request]
 
